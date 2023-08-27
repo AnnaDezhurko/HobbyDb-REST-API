@@ -17,8 +17,8 @@
 
 ## Технологический стек
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=cd5c5c)](https://www.python.org/)
-[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat&logo=Django%20REST%20Framework&logoColor=56C0C0&color=cd5c5c)](https://www.django-rest-framework.org/)
-[![SQLite](https://img.shields.io/badge/-SQLite-464646?style=flat&logo=PostgreSQL&logoColor=56C0C0&color=0095b6)](https://www.sqlite.org/)
+[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat&logo=Django%20REST%20Framework&logoColor=56C0C0&color=0095b6)](https://www.django-rest-framework.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-464646?style=flat&logo=PostgreSQL&logoColor=56C0C0&color=cd5c5c)](https://www.sqlite.org/)
 
 
 ## 🚀 Запуск проекта: 
